@@ -1,8 +1,8 @@
-# 🧮 BMI Calculator
+# BMI Calculator
 
 A modern and responsive BMI (Body Mass Index) Calculator built with HTML, CSS, and JavaScript. The application provides instant BMI calculations with a clean glassmorphism-inspired user interface and dynamic category indicators.
 
-## ✨ Features
+## Features
 
 * Instant BMI calculation
 * Responsive design for desktop and mobile devices
@@ -12,7 +12,7 @@ A modern and responsive BMI (Body Mass Index) Calculator built with HTML, CSS, a
 * Smooth animations and hover effects
 * Easy-to-use and beginner-friendly interface
 
-## 🚀 Live Demo
+## Live Demo
 
 Add your live project link here:
 
@@ -21,12 +21,8 @@ https://abhijith-e0.github.io/BMI-Calculator/
 ```
 
 ## 📸 Screenshot
-
-Add a screenshot of your project:
-
-```md
 ![BMI Calculator Screenshot](./images/screenshot.png)
-```
+
 ## Technologies Used
 
 * HTML5
