@@ -18,11 +18,12 @@ Add your live project link here:
 
 ```text
 https://abhijith-e0.github.io/BMI-Calculator/
-```  
+```        
 
 ## 📸 Screenshot
 
 ![BMI Calculator Screenshot](./images/Screenshot.png)
+
 ## Technologies Used
 
 * HTML5
