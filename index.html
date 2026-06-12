@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BMI Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="bmi-categories">
+            <h2>BMI Categories</h2>
+
+            <div class="category underweight">
+                <span>Below 18.5</span>
+                <span>Underweight</span>
+            </div>
+
+            <div class="category normal">
+                <span>18.5 - 24.9</span>
+                <span>Normal Weight</span>
+            </div>
+
+            <div class="category overweight">
+                <span>25 - 29.9</span>
+                <span>Overweight</span>
+            </div>
+
+            <div class="category obese">
+                <span>30 and Above</span>
+                <span>Obese</span>
+            </div>
+        </div>
+
+        <div class="card">
+            <h1>BMI Calculator</h1>
+
+            <div class="input-group">
+                <label>Height (cm)</label>
+                <input type="number" id="height" placeholder="Enter your height">
+            </div>
+
+            <div class="input-group">
+                <label>Weight (kg)</label>
+                <input type="number" id="weight" placeholder="Enter your weight">
+            </div>
+
+            <button id="calculateBtn">Calculate BMI</button>
+
+            <div class="result">
+                <h2 id="bmiValue">0.00</h2>
+                <p id="status">Enter your details</p>
+            </div>
+        </div>
+        
+    </div>
+   
+
+    <script src="app.js"></script>
+</body>
+</html>
