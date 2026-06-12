@@ -22,8 +22,7 @@ https://abhijith-e0.github.io/BMI-Calculator/
 
 ## 📸 Screenshot
 
-![BMI Calculator Screenshot](https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/images/Screenshot.png)
-
+![BMI Calculator Screenshot](./images/Screenshot.png)
 ## Technologies Used
 
 * HTML5
